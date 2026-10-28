@@ -1,3 +1,3 @@
-# AbhishekGauttam
+# AbhishekGautam
 
-I am a React Developer.
+I am a computer enthusiast.
